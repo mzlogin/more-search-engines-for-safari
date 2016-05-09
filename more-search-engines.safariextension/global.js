@@ -8,7 +8,3 @@ safari.application.addEventListener('beforeSearch', function(e) {
   url = url.replace('@@@', encodeURIComponent(e.query).replace(/%20/g, '+'));
   e.target.url = url;
 }, false);
-
-//safari.application.addEventListener("command", function(e) {
-//  safari.extension.settings.engine = e.command;
-//}, false);
