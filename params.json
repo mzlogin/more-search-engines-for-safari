@@ -1,0 +1,6 @@
+{
+  "name": "more-search-engines-for-safari",
+  "tagline": "An extension to add more search engines for safari.",
+  "body": "## Supported search engines\r\n\r\n* Sogou\r\n\r\n## Install\r\n\r\nIt is not available on the Safari gallery. Instead, you must install it with source.\r\n\r\n* Download the source\r\n\r\n  `git clone git@github.com:mzlogin/more-search-engines-for-safari.git`\r\n\r\n  or\r\n\r\n  download the [achive zip](https://github.com/mzlogin/more-search-engines-for-safari/archive/master.zip) and unzip it.\r\n\r\n* Start Safari\r\n\r\n* Select `Develop` > `Show Extension Builder`\r\n\r\n* Click the `+` button and select `Add Extension...`\r\n\r\n* Select the \"more-search-engines.safariextension\" directory\r\n\r\n* Click `Install`\r\n\r\n## Reference\r\n\r\n* [AnySearch-safari-extension](https://github.com/mcs07/AnySearch-safari-extension)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
