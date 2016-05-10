@@ -19,9 +19,13 @@ It is not available on the Safari gallery. Instead, you must install it with sou
   download the [achive zip](https://github.com/mzlogin/more-search-engines-for-safari/archive/master.zip) and unzip it.
 
 * Start Safari
+
 * Select `Develop` > `Show Extension Builder`
+
 * Click the `+` button and select `Add Extension...`
+
 * Select the "more-search-engines.safariextension" directory
+
 * Click `Install`
 
 ## Reference
